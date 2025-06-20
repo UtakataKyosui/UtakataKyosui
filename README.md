@@ -61,7 +61,7 @@
 <br/><strong>React</strong>
 </td>
 <td align="center" width="100">
-<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="48" height="48" alt="Solid" />
+<img src="https://skillicons.dev/icons?i=solidjs" width="48" height="48" alt="Solid" />
 <br/><strong>Solid</strong>
 </td>
 <td align="center" width="100">
@@ -101,7 +101,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtakataKyosui&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=UtakataKyosui&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -111,12 +111,14 @@
 <div align="center">
   
   <a href="https://misskey.systems/@UtakataKyosui" target="_blank">
-    <img src="https://img.shields.io/badge/Misskey_Systems-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Misskey Systems"/>
+    <img align="center" src="https://storage.misskey.systems/storage/files/489b622c-bf02-49a6-a7cc-c67ba1f0930f.png" alt="Misskey Systems" height="40" width="50" />
+    <strong>Misskey Systems</strong>
   </a>
   
-  <a href="https://misskey-star-night.org/@UtakataKyosui" target="_blank">
-    <img src="https://img.shields.io/badge/Misskey_StarNight-6B46C1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMxEuNjMgN0wxMi4zNyA3TDEyIDJaTTEyIDIyTDE0LjYzIDE3TDEyLjM3IDE3TDEyIDIyWk0yMiAxMkwxNyAxNC0zTDE3IDEyLjM3TDIyIDEyWk0yIDEyTDcgOS42M0w3IDEyLjM3TDIgMTJaTDE4LjM2NCA1LjYzNkwxNC4xMjEgOS44NzlMMTMuNDE0IDkuMTcyTDE3LjY1NyA0LjkyOUwxOC4zNjQgNS42MzZaTTUuNjM2IDE4LjM2NEw5Ljg3OSAxNC4xMjFMOS4xNzIgMTMuNDE0TDQuOTI5IDE3LjY1N0w1LjYzNiAxOC4zNjRaTTE4LjM2NCAxOC4zNjRMMTcuNjU3IDE3LjY1N0wxMy40MTQgMTMuNDE0TDE0LjEyMSA5Ljg3OUwxOC4zNjQgMTguMzY0Wk01LjYzNiA1LjYzNkw5Ljg3OSA5Ljg3OUw5LjE3MiA5LjE3Mkw0LjkyOSA0LjkyOUw1LjYzNiA1LjYzNloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white" alt="Misskey StarNight"/>
-  </a>
+  <br/><br/>
+  
+  <img src="https://pub-83d43dd575744f20970bf4cfaf2abf1c.r2.dev/starrynight_icon.png" alt="Misskey StarNight" height="40" width="50" />
+  <strong>Misskey StarNight</strong> <em>(Currently Offline)</em>
 
 </div>
 
