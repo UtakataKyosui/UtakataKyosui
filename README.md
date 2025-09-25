@@ -9,8 +9,8 @@
     Hello, I'm <strong>UtakataKyosui</strong>
   </h1>
   
-  <p margin="5px">> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+Frontend+Engineer;TypeScript+%7C+Rust+%7C+WebAssembly;Coffee+%E2%98%95+%26+Code+Enthusiast" alt="Typing SVG" />
+  <p margin="5px">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+Frontend+Engineer;TypeScript+%7C+Rust+%7C+WebAssembly;Coffee+%E2%98%95+%26+Code+Enthusiast" alt="Typing SVG" />
   </p>
 
   <div align="center">
