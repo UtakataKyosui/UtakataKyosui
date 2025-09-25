@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+Frontend+Engineer;TypeScript+%7C+Rust+%7C+WebAssembly;Coffee+%E2%98%95+%26+Code+Enthusiast" alt="Typing SVG" />
   </p>
 
-  <div align="center">
+  <div align="center" margin="5px">
     <img src="https://img.shields.io/badge/🎯_Focus-Frontend_Development-blue?style=for-the-badge&color=0d1117&labelColor=58a6ff" />
     <img src="https://img.shields.io/badge/💻_Code-TypeScript%20%7C%20Rust-blue?style=for-the-badge&color=0d1117&labelColor=f85149" />
     <img src="https://img.shields.io/badge/☕_Fuel-Coffee-blue?style=for-the-badge&color=0d1117&labelColor=8b5cf6" />
